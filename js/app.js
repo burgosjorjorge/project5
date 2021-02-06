@@ -1,1 +1,1 @@
-baguetteBox.run('.img');​
+baguetteBox.run('.gallery');​
